@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		277EE66B19373BBE00ABFE3F /* License.txt in Resources */ = {isa = PBXBuildFile; fileRef = 277EE66A19373BBE00ABFE3F /* License.txt */; };
 		84D3DEA914A331C400AE5242 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84D3DEA814A331C400AE5242 /* UIKit.framework */; };
 		84D3DEAB14A331C400AE5242 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84D3DEAA14A331C400AE5242 /* Foundation.framework */; };
 		84D3DEB114A331C400AE5242 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 84D3DEAF14A331C400AE5242 /* InfoPlist.strings */; };
@@ -33,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		277EE66A19373BBE00ABFE3F /* License.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = License.txt; path = ../License.txt; sourceTree = "<group>"; };
 		84D3DEA414A331C400AE5242 /* ImageSaving.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ImageSaving.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84D3DEA814A331C400AE5242 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		84D3DEAA14A331C400AE5242 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -80,6 +82,7 @@
 		84D3DE9914A331C400AE5242 = {
 			isa = PBXGroup;
 			children = (
+				277EE66A19373BBE00ABFE3F /* License.txt */,
 				84D3DEAC14A331C400AE5242 /* ImageSaving */,
 				84D3DECD14A331C400AE5242 /* ImageSavingTests */,
 				84D3DEA714A331C400AE5242 /* Frameworks */,
@@ -220,6 +223,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				277EE66B19373BBE00ABFE3F /* License.txt in Resources */,
 				84D3DEB114A331C400AE5242 /* InfoPlist.strings in Resources */,
 				84D3DEBD14A331C400AE5242 /* ImageViewController_iPhone.xib in Resources */,
 				84D3DEC014A331C400AE5242 /* ImageViewController_iPad.xib in Resources */,
@@ -439,6 +443,7 @@
 				84D3DEDA14A331C400AE5242 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		84D3DEDB14A331C400AE5242 /* Build configuration list for PBXNativeTarget "ImageSavingTests" */ = {
 			isa = XCConfigurationList;
@@ -447,6 +452,7 @@
 				84D3DEDD14A331C400AE5242 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2DF6C720-BE32-44A9-9499-B2DEA53E89BB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ImageSaving</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EF5219F0-46A2-4F46-A5EB-78E7FEBB547D</key>
+		<string>https://github.com/vishnukanth/ImageDownLoad.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ImageSaving.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EF5219F0-46A2-4F46-A5EB-78E7FEBB547D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vishnukanth/ImageDownLoad.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EF5219F0-46A2-4F46-A5EB-78E7FEBB547D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EF5219F0-46A2-4F46-A5EB-78E7FEBB547D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ImageDownLoad</string>
+		</dict>
+	</array>
+</dict>
+</plist>
